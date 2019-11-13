@@ -35,3 +35,5 @@ print(h)
 k = h.append(input("Enter your third word:  "))
 print(h)
 
+l = b + h
+print(l)
