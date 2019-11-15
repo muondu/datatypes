@@ -11,6 +11,9 @@ print(a)
 e = a.append(input("Enter your fourth sentence:  "))
 print(a)
 f = a.append(input("Enter your fifth sentence:   "))
+a.sort()
+a.pop()
+a.remove(input("Remove a word in the list:  "))  
 print(a)
 print("Write names of people")
 g = []
@@ -23,4 +26,13 @@ print(g)
 k = g.append(input("Enter your fourth sentence:  "))
 print(g)
 l = g.append(input("Enter your fifth sentence:   "))
+g.sort()
+g.pop()
+g.remove(input("Remove a word in the list:  "))
+
 print(g)
+
+
+list1 = a + g
+print(list1)
+
