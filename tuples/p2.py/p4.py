@@ -1,2 +1,2 @@
 a = ("Nesh","Malli","Newton","Frank","Somi","Mwenda")
-print(a[-3:-5])
+print(a[0:2])
