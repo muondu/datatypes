@@ -1,4 +1,4 @@
-#Creating a set
+f#Creating a set
 set1 = {"Apple","Banana","Pineaple"}
 #Access item in a set
     #for set2 in set1:
